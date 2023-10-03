@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site contains coding related materials. Primarily, it shares various materials I use for "Creative Coding" , an afterschool activity aiming for middle-school students.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I use the Jekyll site generator running on GitHub Pages, this provides free-of-charge hosting of a static blog. It is part of your GitHub account and available with a bit of setup effort.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Enjoy.
+Michael Braehler

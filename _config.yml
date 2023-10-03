@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
+    twitter: "https://twitter.com/MikeFromD"
     github:  "https://mikefromd/github.io"
     # devto: jekyll
     # dribbble: jekyll
@@ -27,7 +27,6 @@ minima:
     youtube_channel: "UCukq30L0rOEIvBvVT4PDdnQ"
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
-    # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
 
@@ -48,7 +47,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
-# - about.md
+ - about.md
 
 # Build settings
 theme: minima

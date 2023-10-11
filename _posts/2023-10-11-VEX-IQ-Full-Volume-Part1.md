@@ -54,3 +54,5 @@ categories: VEXIQ
 - Spinning rollers for continuous operation
 - 80 Points
 - Review the rules for what you are focusing on. It may be impossible to do all tasks, even partially, so break down the tasks, and decide for the best mix.
+
+![Scoring Table](Media/231011_VEXIQ_Scoring.png)

@@ -57,4 +57,4 @@ categories: VEXIQ
 
 ![Scoring Table](assets/231011_VEXIQ_Scoring.png)
 
-!Scoring](/Media/231011_VEXIQ_Scoring.png)
+![Scoring](/Media/231011_VEXIQ_Scoring.png)

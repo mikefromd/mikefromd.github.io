@@ -56,3 +56,5 @@ categories: VEXIQ
 - Review the rules for what you are focusing on. It may be impossible to do all tasks, even partially, so break down the tasks, and decide for the best mix.
 
 ![Scoring Table](assets/231011_VEXIQ_Scoring.png)
+
+!Scoring](/Media/231011_VEXIQ_Scoring.png)

@@ -56,3 +56,7 @@ categories: VEXIQ
 - Review the rules for what you are focusing on. It may be impossible to do all tasks, even partially, so break down the tasks, and decide for the best mix.
 
 ![Scoring](/Media/231011_VEXIQ_Scoring.png)
+
+#### Additional links
+- [Control Software for Hero Robot Byte](https://kb.vex.com/hc/en-us/articles/15768222047252)
+- [Build instructions for Hero Robot Byte](https://content.vexrobotics.com/docs/23-24/viqrc-fullvolume/Byte-BI-PDF.pdf). It is best to download the pdf file so that you have it readily available for the next time you come to the activity, even without accessing the internet.

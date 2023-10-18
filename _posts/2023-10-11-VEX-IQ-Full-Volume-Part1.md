@@ -68,7 +68,9 @@ The example below should give you an idea on how to arrange your notes and what 
   <img src="/Media/231018_VEX_Handbuch_Ex.png" />
 </a>
 
-We will create our notebook making Google Slides, [here] you find a template you can use. You can always use paper written notes, they will be scanned and you can then incorporate the pages into your electronic enginieering journal.
+We will create our notebook making Google Slides, [here](https://kb.roboticseducation.org/hc/en-us/articles/8369508470935-Digital-Notebook-Template) you find a template you can use. You can always use paper written notes, they will be scanned and you can then incorporate the pages into your electronic enginieering journal.
+
+Each group can track their progress jointly in one notebook.
 
 
 ## Additional links

@@ -62,9 +62,9 @@ categories: VEXIQ
 
 An important part of the competition is the journaling of your activities when designing, building, and running your robot. All this should be kept in a centralized, structured document. [Here](https://kb.roboticseducation.org/hc/en-us/articles/8374007847575-Get-Started-Notebooking) you can find some descriptions on how to tackle this task.
 
-The example below should give you an idea how to arrange your notes and what is worthwhile to record.
+The example below should give you an idea on how to arrange your notes and what is worthwhile to record; click on the image to get more examples.
 
-<a href="[/link/to/sit](https://viqrc-kb.recf.org/hc/en-us/articles/9760583053207-VEX-Engineering-Notebook-Examples)e">
+<a href="https://viqrc-kb.recf.org/hc/en-us/articles/9760583053207-VEX-Engineering-Notebook-Examples">
   <img src="/Media/231018_VEX_Handbuch_Ex.png" />
 </a>
 

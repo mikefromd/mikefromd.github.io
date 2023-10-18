@@ -64,7 +64,9 @@ An important part of the competition is the journaling of your activities when d
 
 The example below should give you an idea how to arrange your notes and what is worthwhile to record.
 
-![Examples Notebook](https://viqrc-kb.recf.org/hc/en-us/articles/9760583053207-VEX-Engineering-Notebook-Examples)
+<a href="[/link/to/sit](https://viqrc-kb.recf.org/hc/en-us/articles/9760583053207-VEX-Engineering-Notebook-Examples)e">
+  <img src="/Media/231018_VEX_Handbuch_Ex.png" />
+</a>
 
 We will create our notebook making Google Slides, [here] you find a template you can use. You can always use paper written notes, they will be scanned and you can then incorporate the pages into your electronic enginieering journal.
 

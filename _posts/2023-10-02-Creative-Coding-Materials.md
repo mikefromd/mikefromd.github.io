@@ -11,3 +11,24 @@ Each subject is described in a separate repository.
 - [Web: Front-End Design with HTML and CSS](https://mikefromd.github.io/Web_FrontEnd/)
 - [TigerJython](https://github.com/mikefromd/TJ_Content/)
 - The other subjects will be added once they are covered.
+
+### Games:
+
+#### RPG Games (Role Player Game)
+
+A role-playing game (RPG) is a game in which players take the roles of characters in a fictional setting. Players are acting out these roles within a narrative, either through literal acting or through a process of structured decision-making regarding character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.
+
+Coming in a big variety, they started off with text-based games, nowadays many of them are visual games with varying storylines.
+
+Today, we use the coding learning platform CodeClub that offers two classes that will lead you through the process of creating a RPG game. One offering is using Python to create a text-based "classic" RPG game, the other option is using Scratch. You can choose.
+
+The Python version of the game will also run on TigerJython, so do not forget to copy and paste your final version of the game on your computer and save it in a file. TigerJython's text input is more powerful than the simple Python input, so you may tweak the code a  bit to make it look smoother. Give it a try!
+
+Here are the two links that bring you to the respective websites:
+
+##### Python Game from Codeclub
+[RPG Role Player Game with Python](https://projects.raspberrypi.org/en/projects/rpg/0)
+
+##### RPG with Scratch on CodeClub
+[Role Player Game with Scratch](https://projects.raspberrypi.org/en/projects/create-your-own-world)
+

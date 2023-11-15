@@ -55,6 +55,14 @@ categories: VEXIQ
 - 80 - 100 Point range for single robot operation.
 - Review the rules for what you are focusing on. It may be impossible to do all tasks, even partially, so break down the tasks, and decide for the best mix.
 
+Following are some other videos that may be interesting for your design considerations
+
+### Sweeper, only taking green blocks, scoring 91 points
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U4hfdVSlyDQ?si=6n9mkuuvSJLfbC5f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Scoring Table, highlighting the three phases of the game
+
 ![Scoring](/Media/231011_VEXIQ_Scoring.png)
 
 

@@ -61,6 +61,10 @@ Following are some other videos that may be interesting for your design consider
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U4hfdVSlyDQ?si=6n9mkuuvSJLfbC5f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Teamwork - Strategy to share cleaning coloured blocks, in particular the red blocks.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5JNY3h8l2U?si=1FLJS2SaGx8UL5Li" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Scoring Table, highlighting the three phases of the game
 
 ![Scoring](/Media/231011_VEXIQ_Scoring.png)

@@ -12,6 +12,52 @@ Each subject is described in a separate repository.
 - [TigerJython](https://github.com/mikefromd/TJ_Content/)
 - The other subjects will be added once they are covered.
 
+
+### Various Materials for Scratch and Python on CodeClub
+
+[This link](https://projects.raspberrypi.org/en/codeclub) brings you to the CodeClub website with a big choice of projects in Scratch, HTML/CSS, Python and other languages and environments.
+
+The projects make often use of the p5 library to display and interact with graphics. Here is an example. the import statement and the two function definitions `def setup():` and `def draw():` as well as the call to `run()` at the end are mandatory elements of a skript using p5.
+
+The p5 functions needed for the projects are all explained in detail step-by-step. 
+
+```python
+#!/bin/python3
+
+from p5 import *
+from random import randint
+
+def setup():  
+    size(640, 360)  
+    no_stroke()  
+    background(204)  
+
+def draw():  
+    if mouse_pressed:  
+        fill(randint(0,255), randint(0,127), randint(0,51), 127)  
+    else:  
+        fill(255, 15)  
+
+    circle_size = randint(10, 80)  
+
+    ellipse(mouse_x, mouse_y, circle_size, circle_size)  
+
+def mouse_pressed():
+    background(204)
+  
+run()  
+```
+
+#### Here are the three projects I suggest you to choose from for today:
+
+1.[Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch) - Interactie simulation of a rocket launch, did you provide enough fuel?
+2.[Make a face](https://projects.raspberrypi.org/en/projects/make-a-face) - Design your own interactive mask
+3.[Don't collide (**)](https://projects.raspberrypi.org/en/projects/dont-collide/0) - Astro shooter type of game.
+
+Projects one and two are good as an introduction, project three is rather challenging, but really interesting. There are a lot of explanations given on the website, so you can tackle all of them.
+
+
+
 ### Games:
 
 #### RPG Games (Role Player Game)

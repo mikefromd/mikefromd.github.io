@@ -50,9 +50,9 @@ run()
 
 #### Here are the three projects I suggest you to choose from for today:
 
-1.[Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch) - Interactie simulation of a rocket launch, did you provide enough fuel?
-2.[Make a face](https://projects.raspberrypi.org/en/projects/make-a-face) - Design your own interactive mask
-3.[Don't collide (**)](https://projects.raspberrypi.org/en/projects/dont-collide/0) - Astro shooter type of game.
+1. [Rocket launch](https://projects.raspberrypi.org/en/projects/rocket-launch) - Interactie simulation of a rocket launch, did you provide enough fuel?
+2. [Make a face](https://projects.raspberrypi.org/en/projects/make-a-face) - Design your own interactive mask
+3. [Don't collide (**)](https://projects.raspberrypi.org/en/projects/dont-collide/0) - Astro shooter type of game.
 
 Projects one and two are good as an introduction, project three is rather challenging, but really interesting. There are a lot of explanations given on the website, so you can tackle all of them.
 

@@ -33,13 +33,8 @@ def setup():
     background(204)  
 
 def draw():  
-    if mouse_pressed:  
-        fill(randint(0,255), randint(0,127), randint(0,51), 127)  
-    else:  
-        fill(255, 15)  
-
+    fill(randint(0,255), randint(0,127), randint(0,51), 127)  
     circle_size = randint(10, 80)  
-
     ellipse(mouse_x, mouse_y, circle_size, circle_size)  
 
 def mouse_pressed():

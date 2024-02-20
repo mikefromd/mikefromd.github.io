@@ -12,6 +12,7 @@ Each subject is described in a separate repository.
 - [TigerJython](https://github.com/mikefromd/TJ_Content/)
 - [MAX](https://github.com/mikefromd/GPC5L05-main/tree/main)
 - [MAX/MSP](https://github.com/mikefromd/MAX-MSP-Materials)
+- [MAX BEAP modules](https://github.com/mikefromd/MAX-BEAP)
 - The other subjects will be added once they are covered.
 
 

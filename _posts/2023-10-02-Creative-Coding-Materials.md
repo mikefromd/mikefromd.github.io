@@ -13,6 +13,7 @@ Each subject is described in a separate repository.
 - [MAX](https://github.com/mikefromd/GPC5L05-main/tree/main)
 - [MAX/MSP](https://github.com/mikefromd/MAX-MSP-Materials)
 - [MAX BEAP modules](https://github.com/mikefromd/MAX-BEAP)
+- [Vocoder and Visual Effects with MAX/MSP/BEAP(https://github.com/mikefromd/Vocoder)
 - The other subjects will be added once they are covered.
 
 

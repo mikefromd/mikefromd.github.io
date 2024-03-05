@@ -14,6 +14,7 @@ Each subject is described in a separate repository.
 - [MAX/MSP](https://github.com/mikefromd/MAX-MSP-Materials)
 - [MAX BEAP modules](https://github.com/mikefromd/MAX-BEAP)
 - [Vocoder and Visual Effects with MAX/MSP/BEAP](https://github.com/mikefromd/Vocoder)
+- [Video with VIZZIE and Jitter](https://github.com/mikefromd/Vizzie_Introduction)
 - The other subjects will be added once they are covered.
 
 

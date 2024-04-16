@@ -7,15 +7,40 @@ categories: WebDev
 This post here contains links to repositories that provide explanations and materials for the Creative Coding class.
 Each subject is described in a separate repository.
 
-### List of subjects:
+## List of subjects:
+
+### Web Design
+
 - [Web: Front-End Design with HTML and CSS](https://mikefromd.github.io/Web_FrontEnd/)
+
+
+### Coding with Tigerjython and Python
+
 - [TigerJython](https://github.com/mikefromd/TJ_Content/)
+- Also check out the notes and materials at the end of this post.
+
+
+### MAX 8
+
 - [MAX](https://github.com/mikefromd/GPC5L05-main/tree/main)
 - [MAX/MSP](https://github.com/mikefromd/MAX-MSP-Materials)
 - [MAX BEAP modules](https://github.com/mikefromd/MAX-BEAP)
 - [Vocoder and Visual Effects with MAX/MSP/BEAP](https://github.com/mikefromd/Vocoder)
 - [Video with VIZZIE and Jitter](https://github.com/mikefromd/Vizzie_Introduction)
-- The other subjects will be added once they are covered.
+
+
+### Animation with Alice 3
+
+- [Install Alice 3](https://www.alice.org/get-alice/alice-3/)
+- [Hour of Code with Alice 3](https://www.alice.org/resources/lessons/hour-of-code/)
+- [The Madhatter Welcomes his Audience](https://mibrs.github.io/introduction/2023/01/17/Alice3-The-Madhatter-Welcomes.html)
+- [Getting Started with Alice 3 - Part 1](https://mibrs.github.io/introduction/alice-3/2023/01/31/Get-Started-With-Alice3.html)
+- [Getting Started with Alice 3 - Part 2](https://mibrs.github.io/introduction/alice-3/2023/02/07/Get-Started-With-Alice3-Part2.html)
+- [Getting Started with Alice 3 - Part 3](https://mibrs.github.io/introduction/alice-3/2023/02/14/Get-Started-With-Alice3-Part3.html)
+- [Getting Started with Alice 3 - Part 4](https://mibrs.github.io/introduction/alice-3/2023/02/21/Get-Started-With-Alice3-Part4.html)
+- [Getting Started with Alice 3 - Part 5](https://mibrs.github.io/introduction/alice-3/2023/03/07/Get-Started-With-Alice3-Part5.html)
+- [Getting Started with Alice 3 - Part 6](https://mibrs.github.io/introduction/alice-3/2023/03/14/Getting-Started-With-Alice3-Part6.html)
+- [Getting Started with Alice 3 - Part 7](https://mibrs.github.io/introduction/alice-3/2023/03/21/Get-Started-With-Alice3-Part7.html)
 
 
 ### Various Materials for Scratch and Python on CodeClub
